@@ -47,7 +47,7 @@ def create_vector_embedding(uploaded_pdf):
     except Exception as e:
         st.error(f"Internal Error: {e}")
     
-st.title("RAG Document Q&A With Groq And Ollama")
+st.title("RAG Document Q&A With Groq And Huggingface")
 
 uploaded_pdf=st.file_uploader("Upload your PDF here",type="pdf")
 if uploaded_pdf is not None:
