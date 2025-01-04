@@ -1,6 +1,6 @@
 # Document-QandA
-
-After Cloning/Downloading The Repository use the command to download the modules:
+###Use the main branch for local
+After Cloning/Downloading from the main branch use the command to download the modules:
 
 **pip install -r requirements.txt**
 
