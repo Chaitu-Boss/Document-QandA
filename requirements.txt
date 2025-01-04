@@ -4,5 +4,6 @@ langchain
 langchain-core
 langchain-groq
 langchain-community
+langchain-huggingface
 pymupdf
 pypdf
